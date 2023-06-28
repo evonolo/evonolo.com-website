@@ -1,0 +1,76 @@
+:root, [data-bs-theme=light] {
+  --bs-primary: #4189f6;
+  --bs-primary-rgb: 65,137,246;
+  --bs-primary-text-emphasis: #1A3762;
+  --bs-primary-bg-subtle: #D9E7FD;
+  --bs-primary-border-subtle: #B3D0FB;
+  --bs-dark: #2C2C2C;
+  --bs-dark-rgb: 44,44,44;
+  --bs-dark-text-emphasis: #121212;
+  --bs-dark-bg-subtle: #D5D5D5;
+  --bs-dark-border-subtle: #ABABAB;
+  --bs-body-font-family: Poppins, sans-serif;
+}
+
+.btn-primary {
+  --bs-btn-color: #000000;
+  --bs-btn-bg: #4189f6;
+  --bs-btn-border-color: #4189f6;
+  --bs-btn-hover-color: #000000;
+  --bs-btn-hover-bg: #5E9BF7;
+  --bs-btn-hover-border-color: #5495F7;
+  --bs-btn-focus-shadow-rgb: 10,21,37;
+  --bs-btn-active-color: #000000;
+  --bs-btn-active-bg: #67A1F8;
+  --bs-btn-active-border-color: #5495F7;
+  --bs-btn-disabled-color: #000000;
+  --bs-btn-disabled-bg: #4189f6;
+  --bs-btn-disabled-border-color: #4189f6;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: #4189f6;
+  --bs-btn-border-color: #4189f6;
+  --bs-btn-focus-shadow-rgb: 65,137,246;
+  --bs-btn-hover-color: #000000;
+  --bs-btn-hover-bg: #4189f6;
+  --bs-btn-hover-border-color: #4189f6;
+  --bs-btn-active-color: #000000;
+  --bs-btn-active-bg: #4189f6;
+  --bs-btn-active-border-color: #4189f6;
+  --bs-btn-disabled-color: #4189f6;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #4189f6;
+}
+
+.btn-dark {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #2C2C2C;
+  --bs-btn-border-color: #2C2C2C;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #252525;
+  --bs-btn-hover-border-color: #232323;
+  --bs-btn-focus-shadow-rgb: 223,223,223;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #232323;
+  --bs-btn-active-border-color: #212121;
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #2C2C2C;
+  --bs-btn-disabled-border-color: #2C2C2C;
+}
+
+.btn-outline-dark {
+  --bs-btn-color: #2C2C2C;
+  --bs-btn-border-color: #2C2C2C;
+  --bs-btn-focus-shadow-rgb: 44,44,44;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #2C2C2C;
+  --bs-btn-hover-border-color: #2C2C2C;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #2C2C2C;
+  --bs-btn-active-border-color: #2C2C2C;
+  --bs-btn-disabled-color: #2C2C2C;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #2C2C2C;
+}
+
